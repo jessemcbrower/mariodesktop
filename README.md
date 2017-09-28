@@ -23,6 +23,8 @@ ln -s ~/.Trash ~/Desktop/Trash
 
 Mario: Macintosh HD, renamed to a single space character
 
+Luigi: USB drives
+
 ? and Brick Boxes: Folders
 
 Coins: Files
